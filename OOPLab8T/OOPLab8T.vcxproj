@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="example.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="OOPLab8T.cpp" />
   </ItemGroup>
   <ItemGroup>

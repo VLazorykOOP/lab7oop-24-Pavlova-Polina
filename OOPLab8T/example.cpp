@@ -1,6 +1,7 @@
 #include "example.h"
 #include <string.h>
 #include <iostream>
+#include<cstring>
 namespace Fun {
 // Написати функцію - шаблон послідовного пошуку в максимального серед 4 елементів.
 // Написати специфікацію функції - шаблон для типу char* .
